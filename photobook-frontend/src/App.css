@@ -1,0 +1,18 @@
+
+.app-header {
+  background-color: #282c34;
+  color: white;
+}
+
+.main-layout {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+}
+
+.footer-actions {
+  margin-top: 20px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+}

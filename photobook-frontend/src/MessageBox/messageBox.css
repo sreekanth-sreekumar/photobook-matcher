@@ -1,0 +1,28 @@
+.message-box {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    height: 800px;
+    width: 600px;
+}
+
+.message-list {
+    flex-basis: 90%;
+}
+
+.message-enter {
+    width: 100%;
+}
+.message-input {
+    width: 100%;
+}
+
+.message-human {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.message-system {
+    text-align: right;
+    margin-bottom: 10px;
+}
